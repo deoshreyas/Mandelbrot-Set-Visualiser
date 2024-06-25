@@ -1,0 +1,17 @@
+backoff==2.2.1
+certifi==2024.6.2
+charset-normalizer==3.3.2
+chess==1.10.0
+idna==3.7
+llvmlite==0.43.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+neat-python==0.92
+numba==0.60.0
+numpy==2.0.0
+pygame==2.5.2
+Pygments==2.18.0
+PyYAML==6.0.1
+requests==2.32.2
+rich==13.7.1
+urllib3==2.2.1
